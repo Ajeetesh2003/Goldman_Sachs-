@@ -14,5 +14,5 @@ Pick one of the choices
     20_C_10 - 20_C_11
     none of the above
 
-ANSWER: 24_C_12 - 24_C_13
+ANSWER: 24_C_12 - 24_C_13 (See VS Code)
 """
