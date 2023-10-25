@@ -14,3 +14,4 @@ Pick one of the choices
     11 sec
     None of the above
 """
+Ans: (110/12) = 9
